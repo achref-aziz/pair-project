@@ -1,0 +1,43 @@
+body{
+    background-image: url(file:///C:/Users/dell/Desktop/project%202/23282_7f309824b5256ff154ca6e97ba8ce2ea.jpg)
+    
+    }
+
+  #game{
+      width: 750px;
+      height: 500px;
+      margin: 20px 150px ;
+    }
+
+    #start{
+      width: 750px;
+      height: 50px;
+      text-align: center;
+    }
+  
+    #scoreBoard{
+        background-color: blanchedalmond;
+        border-color: 1px black solid;
+        width: 250px;
+        height: 200px;
+        margin: -500px 1000px ;
+    }  
+
+    #table{
+      border-color: black;
+      width: 750px;
+      height: 450px;
+      text-align: center;
+      
+    }
+
+    .td{
+      border: 1px black solid;
+      width: 250px;
+      height: 150px;
+    }
+
+    img{
+      width: 240px;
+      height: 140px;
+    }
